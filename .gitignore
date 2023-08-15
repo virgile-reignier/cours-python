@@ -18,3 +18,4 @@ styles
 *.bak
 pages.csv
 *.sqlite
+cours/*
