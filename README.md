@@ -103,6 +103,7 @@ Si tout va bien, cela devrait ouvrir votre navigateur sur la page http://127.0.0
 - Maarten van Gompel
 - Matt Munson
 - Thibault Clérice
+- Virgile Reignier
 
 ## Ressources supplémentaires
 - http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
