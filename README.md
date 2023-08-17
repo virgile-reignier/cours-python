@@ -1,4 +1,4 @@
-Introduction à Python et au développement web avec Python pour les sciences humaines
+Introduction à Python pour les sciences humaines
 ===
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
