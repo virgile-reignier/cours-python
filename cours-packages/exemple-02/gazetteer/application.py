@@ -1,1 +1,0 @@
-mon_module = "application"

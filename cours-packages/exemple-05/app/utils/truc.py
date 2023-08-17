@@ -1,1 +1,0 @@
-TRUC = "Truc"

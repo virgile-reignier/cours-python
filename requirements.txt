@@ -1,7 +1,0 @@
-feedparser
-requests
-lxml
-ipython
-jupyter
-flask
-Click
