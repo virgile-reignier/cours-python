@@ -18,4 +18,5 @@ styles
 *.bak
 pages.csv
 *.sqlite
-cours/*
+cours/*.doc*
+cours/*.ppt*
