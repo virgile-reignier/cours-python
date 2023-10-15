@@ -8,6 +8,8 @@ Introduction à Python pour les sciences humaines
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires qui travaillent dans le domaine des humanités. Choisir Python s’avère très pertinent quand il s'agit de gérer des données textuelles, très utilisées dans les humanités, mais aussi quand il faut écrire un site web, gérer des données numériques, écrire un script pour faire des transformations, etc. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation.
 
+NB : L'archive data.zip contient les fichiers destinés à être importés dans Google colab
+
 ## Sources
 
 Les supports sont tous issus d'un [cours](https://github.com/PonteIneptique/cours-python) donné par Thibault Clérice :
