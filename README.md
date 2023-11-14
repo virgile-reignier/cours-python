@@ -16,7 +16,7 @@ Les supports sont tous issus d'un [cours](https://github.com/PonteIneptique/cour
 
 - Les chapitres 1 et 2 sont une copie quasi-exacte des chapitres équivalents rédigés par Thibault Clérice (eux-mêmes issus de quatre chapitres de Matt Munson).
 - Les chapitres 3 et 4 sont directement issus du chapitre 4 rédigé par Thibault Clérice.
-- Les chapitres 5 et 6 sont des créations.
+- Le chapitre 5 est une création.
 
 Vous trouverez l'ensemble des procédures d'installation des logiciels nécessaires dans la page dédiée du [cours flask](https://maximechallon.github.io/CoursM2TNAH_Flask_supports_public/sommaire.html), complémentaire à celui-ci. Si vous êtes bloqués, contactez votre professeur.
 
