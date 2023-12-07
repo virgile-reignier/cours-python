@@ -20,4 +20,5 @@ pages.csv
 *.sqlite
 *.doc*
 *.ppt*
+*.xls*
 ~*.tmp
